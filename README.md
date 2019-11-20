@@ -72,11 +72,57 @@
         * [维系区域](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section3.md#维系区域)
         * [废除<一个区域>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section3.md#废除一个区域)
         * [恢复<一个区域>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section3.md#恢复一个区域)
+    * [与数值相关的用语](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#与数值相关的用语)
+        * [体力上限](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#体力上限)
+        * [体力值](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#体力值)
+        * [已损失的体力值](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#已损失的体力值)
+        * [体力](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#体力)
+        * [手牌上限](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#手牌上限)
+        * [伤害值基数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#伤害值基数)
+        * [回复值基数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#回复值基数)
+        * [距离](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#距离)
+        * [攻击范围](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#攻击范围)
+        * [X、Y、Z](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#XYZ)
+        * [<数值X>与<数值Y>之差](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#数值X与数值Y之差)
+        * [等量的](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#等量的)
+        * [势力数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#势力数)
+        * [……的角色数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#的角色数)
+        * [<一个数值>最大/小](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#一个数值最大小)
+        * [<一个数值>的一半](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#一个数值的一半)
+        * [至多/少X](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#至多少X)
+        * [任意数量](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#任意数量)
+        * [额定摸牌数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#额定摸牌数)
+        * [玩家数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#玩家数)
+        * [目标对应的角色数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#目标对应的角色数)
+        * [游戏牌ID](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#游戏牌ID)
+        * [点数](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section4.md#点数)
 
 
 
 
 更新：
-一、与牌相关的用语武将牌
+一、与牌相关的用语
+
 1.武将牌：增加了国战中君主武将牌的描述。
+
 2.基本牌：修改基本牌的定义，原定义涉及到牌面印刷内容会导致歧义
+
+二、与数值相关的用语
+
+1.势力数：势力数（曹仁-国等技能）引用说明
+
+三、与牌面描述相关的用语
+
+1.限定技：增加一个说明
+
+2.觉醒技：增加一个说明
+
+3.【】：技能名，牌名，统一使用【】来标识（因为这个符号是好打），具体说明请查看。
+
+4.阵法召唤：增加了君主对于野心家的影响判定
+
+5.势力召唤：增加势力召唤的定义
+
+6.转化：完善转化牌的定义
+
+7.消耗，效果，延时效果标识符，修改为更易书写的符号。
