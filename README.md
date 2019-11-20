@@ -7,4 +7,4 @@
 
 目录：
 
-* [第一章：游戏规则](https://github.com/guiling0/sgsrule/blob/master/Chapter1/Section0.md)
+* [第一章：游戏规则](https://github.com/guiling0/sgsrule/blob/master/Chapter1/Section0.md#第一章游戏规则)
