@@ -99,7 +99,7 @@
     * [/](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#结构简化)
     * [=>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#消耗标识符)
     * [>>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#效果标识符)
-    * [->](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#延时效果标识符)
+    * [->](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#-延时效果标识符)
     * [转移](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#转移)
     * [依次<操作><X>张……牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#依次操作X张牌)
     * [此牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#此牌)
