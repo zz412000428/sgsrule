@@ -151,6 +151,73 @@
         * [失去<一名角色的>所有武将技能](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#失去一名角色的所有武将技能)
         * [转化](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#转化)
         * [造成（或受到）……点普通/火焰/雷电伤害](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section5.md#造成或受到点普通火焰雷电伤害)
+    * [与游戏流程相关的用语](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#与游戏流程相关的用语)
+        * [回合](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#回合)
+        * [上/下家](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#上下家)
+        * [阶段](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#阶段)
+        * [终止<一个流程>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#终止一个流程)
+        * [终止<一个回合>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#终止一个回合)
+        * [角色](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#角色)
+        * [结束<一个阶段>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#结束一个阶段)
+        * [结束<一个回合>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section6.md#结束一个回合)
+    * [与事件结算相关的用语](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#与事件结算相关的用语)
+        * [事件](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#事件)
+        * [响应](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#响应)
+        * [结算](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#结算)
+            * [时机](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#时机)
+        * [流程](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#流程)
+        * [<一张牌>对<一个目标>无效](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#一张牌对一个目标无效)
+        * [<一名角色>的<技能>于<一个时间段内>无效](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#一名角色的技能于一个时间段内无效)
+        * [取消<一张牌>的<一个目标>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#取消一张牌的一个目标)
+        * [取消<一张牌>的移动流程](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#取消一张牌的移动流程)
+        * [无视](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#无视)
+        * [防止<一名角色>受到的伤害/失去的体力](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#防止一名角色受到的伤害失去的体力)
+        * [防止<一张牌>的移动](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#防止一张牌的移动)
+        * [防止牌状态改变](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#防止牌状态改变)
+        * [起点](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section7.md#起点)
+    * [与操作游戏牌相关的用语](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#与操作游戏牌相关的用语)
+        * [<一张牌>移至<一个区域>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#一张牌移至一个区域)
+        * [使用](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#使用)
+        * [打出](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#打出)
+        * [<一名角色>能如手牌般使用或打出<牌A>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#一名角色能如手牌般使用或打出牌A)
+        * [重铸](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#重铸)
+        * [将<一张牌>置于/入<一个区域>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#将一张牌置于/入一个区域)
+        * [扣置于/入](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#扣置于入)
+        * [弃置](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#弃置)
+        * [弃](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#弃)
+        * [<一名角色>视为装备着<一个张装备牌>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#一名角色视为装备着一个张装备牌)
+        * [<信息为A的事物>视为<信息为B的事物>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#信息为A的事物视为信息为B的事物)
+        * [<角色A>将……牌交给<角色B>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#角色A将牌交给角色B)
+        * [拼点](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#拼点)
+        * [摸……张牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#摸张牌)
+        * [将<牌>弃置至<X>张](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#将牌弃置至X张)
+        * [将<牌>补至<X>张](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#将牌补至X张)
+        * [观看](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#观看)
+        * [展示](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#展示)
+        * [亮出](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#亮出)
+        * [交换手牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#交换手牌)
+        * [交换装备区里的牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#交换装备区里的牌)
+        * [交换<两名角色>各一张确定的牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#交换两名角色各一张确定的牌)
+        * [获得<牌>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#获得牌)
+        * [得到](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#得到)
+        * [失去<牌>/<手牌>/<装备区里的牌>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#失去牌手牌装备区里的牌)
+        * [判定](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#判定)
+        * [一名角色><操作>……所有<……牌>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#一名角色操作所有牌)
+        * [合纵](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#合纵)
+        * [<一名角色><操作>（对应的实体牌为）牌堆/弃牌堆里的<一张……牌>](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#一名角色操作对应的实体牌为牌堆弃牌堆里的一张牌)
+        * [洗牌](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section8.md#洗牌)
+    * [与操作武将牌相关的用语](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#与操作武将牌相关的用语)
+        * [横置](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#横置)
+        * [重置](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#重置)
+        * [连环状态](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#连环状态)
+        * [调虎离山状态](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#调虎离山状态)
+        * [翻面](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#翻面)
+        * [复原](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#复原)
+        * [明置](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#明置)
+        * [暗置](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#暗置)
+        * [叠置](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#叠置)
+        * [移除](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#移除)
+        * [变更](https://github.com/guiling0/sgsrule/blob/master/Chapter2/Section9.md#变更)
 
 
 
@@ -182,3 +249,13 @@
 6.转化：完善转化牌的定义
 
 7.消耗，效果，延时效果标识符，修改为更易书写的符号。
+
+四、与操作游戏牌/武将牌相关的用语
+
+1.完善了这些操作的描述定义
+
+2.连横，修改为了合纵
+
+3.增加调虎离山状态的描述定义
+
+4.变更修改
